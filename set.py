@@ -1,8 +1,8 @@
-# test
+# source test
 
 items = set()
 
-# Add three strings.  sour 
+# Add three strings.  source 
 items.add("Python")
 items.add("coding")
 items.add("tips")
