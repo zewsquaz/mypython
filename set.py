@@ -1,7 +1,7 @@
 
 items = set()
 
-# Add three strings. tst
+# Add three strings. 
 items.add("Python")
 items.add("coding")
 items.add("tips")
