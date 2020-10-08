@@ -1,7 +1,7 @@
-a = 10
-a = input ("A=")
-b = 6
-b = input ("B=")
+aa = input ("A=")
+bb = input ("B=")
+a=int(aa)
+b=int(bb)
 
 if a > b:
    print("A > B")
