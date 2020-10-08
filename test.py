@@ -1,5 +1,7 @@
 a = 10
+a = input ("A=")
 b = 6
+b = input ("B=")
 
 if a > b:
    print("A > B")
