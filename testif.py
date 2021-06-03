@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 aa = input ("A=")
 bb = input ("B=")
 a=int(aa)

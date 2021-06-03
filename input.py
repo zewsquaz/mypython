@@ -1,3 +1,4 @@
+#!/usr/bin/python
 
 print ("Hello user \n")
 a = input("a=");
