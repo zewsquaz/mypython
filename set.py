@@ -6,7 +6,7 @@ items = set()
 # Add three strings.  source 
 items.add("Python")
 items.add("coding")
-items.add("tips")
+items.add("_tips_")
 
 print(items)
 
