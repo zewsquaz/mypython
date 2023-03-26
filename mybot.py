@@ -3,7 +3,7 @@ import telebot
 
 print("My first telegram bot")
 
-bot = telebot.TeleBot("5609240263:AAGUCKB-TEa3YOdfLyMH0T2Qy6mZPAOD9QU")
+bot = telebot.TeleBot(" my token ")
 
 @bot.message_handler(content_types=['text'])
 def send_echo(message):
