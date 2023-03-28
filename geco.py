@@ -7,7 +7,7 @@ def meter(f):
         return res
     return wr
 
-
+@meter  #  a1 = meter( a1 )
 def a1(n):
     print ("body")
     return n**2
@@ -17,7 +17,7 @@ def a1(n):
 
 print (a1(5),"\n___\n")
 
-a1 = meter( a1 )
+#  a1 = meter( a1 )
 
 print (a1(5))
 
